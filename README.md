@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cadu 👋
 Sou um desenvolvedor ágil, com faclidade no aprendizado e apaixonado em adquirir conhecimento. Recentemente, mudei de carreira da Educação para a Tecnologia. Tendo estabelecido minha base educacional e com um desejo de novos desafios e oportunidades de desenvolvimento, aprofundei minha jornada. No momento, o foco principal da aprendizagem é o caminho do desenvolvedor FullStack que abrange Python e suas bibliotecas, Java, HTML5 e JavaScript com compreensão básica de Git e SQL. Meu caminho não convencionalmente direto me forneceu uma variedade de habilidades de trabalho com clientes e ensino, certamente aplicável no campo da tecnologia. Estou ansioso para continuar meus estudos e crescer em futuras oportunidades em TI, disposto a enfrentar novos desafios com entusiasmo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caduleal&theme=algolia&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caduleal&theme=algolia&layout=compact) ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caduleal&theme=algolia&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caduleal&theme=algolia&layout=compact)
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
