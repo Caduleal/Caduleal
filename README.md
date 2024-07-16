@@ -7,14 +7,15 @@ Sou um desenvolvedor ágil, com faclidade no aprendizado e apaixonado em adquiri
 <div style="display: inline_block"><br/>
     <img align="center" alt="java" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/>
     <img align="center" alt="python" src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000"/>
-    <img align="center" alt="css" src="[https://img.icons8.com/?size=100&id=20906&format=png&color=000000](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)"/>
+    <img align="center" alt="css" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000)"/>
     <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000"/>
     <img align="center" alt="javaScript" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000"/>
     <img align="center" alt="git" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
 </div>
 
 ### Contato
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carloseduardoleal) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseleal.prof@gmail.com) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos1d5/) [![website](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white])(https://carlosleal.x10.mx/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carloseduardoleal) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseleal.prof@gmail.com) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos1d5/)
+Veja mais sobre meus projetos e experiências em [meu portfólio online](http://www.seusite.com).
 
 ### Soft Skills
 - 🗽 Inglês fluente
