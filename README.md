@@ -9,22 +9,22 @@ Tenho forte interesse e experiência em desenvolvimento backend, automação e s
 </div>
 
 ### 💻 Tecnologias e Ferramentas
-<div align="center" style="display: inline-block"><br/>
-    <img align="center" alt="C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="C++" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="PHP" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="HTML5" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="CSS3" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="SQL / PostgreSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="Arduino" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="Raspberry Pi" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="margin: 10px;"/>
-    <img align="center" alt="Espressif" height="80" width="80" src="https://cdn.simpleicons.org/espressif/E7352C" style="margin: 10px;"/>
-    <img align="center" alt="Orange Pi" height="80" width="80" src="https://avatars.githubusercontent.com/orangepi-xunlong?size=200" style="margin: 10px; border-radius: 10px;"/>
-    <img align="center" alt="Linux" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 10px;"/>
+<div align="center">
+    <img alt="C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="C++" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="PHP" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin: 10px; background-color: transparent;"/><br/>
+    <img alt="HTML5" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="CSS3" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="SQL / PostgreSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin: 10px; background-color: transparent;"/><br/>
+    <img alt="Arduino" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="Raspberry Pi" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="margin: 10px; background-color: transparent;"/>
+    <img alt="Espressif" height="80" width="80" src="https://cdn.simpleicons.org/espressif/E7352C" style="margin: 10px; background-color: transparent;"/>
+    <img alt="Orange Pi" height="80" width="80" src="https://avatars.githubusercontent.com/orangepi-xunlong?size=200" style="margin: 10px; background-color: transparent; border-radius: 10px;"/>
+    <img alt="Linux" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 10px; background-color: transparent;"/>
 </div>
 
 ### 🚀 Áreas de Interesse
