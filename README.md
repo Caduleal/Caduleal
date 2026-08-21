@@ -9,19 +9,22 @@ Tenho forte interesse e experiência em desenvolvimento backend, automação e s
 </div>
 
 ### 💻 Tecnologias e Ferramentas
-<div style="display: inline-block"><br/>
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img align="center" alt="Arduino/Microcontroladores" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-    <img align="center" alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<div align="center" style="display: inline-block"><br/>
+    <img align="center" alt="C" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="C++" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="Java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="Python" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="PHP" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="HTML5" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="CSS3" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="JavaScript" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="SQL / PostgreSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="Arduino" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="Raspberry Pi" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="margin: 10px;"/>
+    <img align="center" alt="Espressif" height="80" width="80" src="https://cdn.simpleicons.org/espressif/E7352C" style="margin: 10px;"/>
+    <img align="center" alt="Orange Pi" height="80" width="80" src="https://avatars.githubusercontent.com/orangepi-xunlong?size=200" style="margin: 10px; border-radius: 10px;"/>
+    <img align="center" alt="Linux" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="margin: 10px;"/>
 </div>
 
 ### 🚀 Áreas de Interesse
@@ -35,11 +38,21 @@ Tenho forte interesse e experiência em desenvolvimento backend, automação e s
 
 
 ### 📞 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardoleal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseleal.prof@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos1d5/)
-<br>
-Você pode visitar meu portfólio online clicando [aqui](https://portifolio-ebon-zeta.vercel.app/).
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/carloseduardoleal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:carloseleal.prof@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/carlos1d5/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://portifolio-ebon-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+</div>
 
 ### 🧠 Soft Skills
 - 🗽 Inglês fluente
