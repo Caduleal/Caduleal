@@ -26,6 +26,7 @@ Tenho forte interesse e experiência em desenvolvimento backend, automação e s
     <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" style="margin: 2px;"/>
     <img src="https://img.shields.io/badge/Orange%20Pi-FF8A00?style=for-the-badge&logoColor=white" alt="Orange Pi" style="margin: 2px;"/>
 </div>
+
 ### 🚀 Áreas de Interesse
 - Educação Tecnológica 
 - Robótica
