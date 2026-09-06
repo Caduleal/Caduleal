@@ -4,10 +4,6 @@ Sou um desenvolvedor apaixonado por tecnologia, automação e resolução de pro
 
 Tenho forte interesse e experiência em desenvolvimento backend, automação e sistemas embarcados. Meu foco de trabalho e estudo abrange programação em **C, C++, Java** e **SQL**, assim como **Python, PHP, HTML, CSS** e **JavaScritpt**, além do desenvolvimento em microcontroladores, microcomputadores, arquitetura de servidores, criação de sites e processamento de dados. Minha vivência anterior na área educacional me proporcionou excelentes habilidades de comunicação, didática e trabalho em equipe, características que aplico ativamente nos meus projetos de TI.
 
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
 ### 💻 Tecnologias e Ferramentas
 <div align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin: 2px;"/>
@@ -26,6 +22,11 @@ Tenho forte interesse e experiência em desenvolvimento backend, automação e s
     <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif" style="margin: 2px;"/>
     <img src="https://img.shields.io/badge/Orange%20Pi-FF8A00?style=for-the-badge&logoColor=white" alt="Orange Pi" style="margin: 2px;"/>
 </div>
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
 
 ### 🚀 Áreas de Interesse
 - Educação Tecnológica 
