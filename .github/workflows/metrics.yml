@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Roda automaticamente todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Caduleal
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          base: "" # Remove o header e informações padrão do GitHub
+          plugin_languages: yes # Ativa o card de linguagens
+          plugin_languages_details: bytes-size, percentage # Mostra tamanho e porcentagem
+          plugin_languages_limit: 8 # Quantidade máxima de linguagens exibidas
