@@ -14,5 +14,5 @@ jobs:
           user: Caduleal
           base: "" # Remove o header e informações padrão do GitHub
           plugin_languages: yes # Ativa o card de linguagens
-          plugin_languages_details: bytes-size, percentage # Mostra tamanho e porcentagem
+          plugin_languages_details: percentage # Mostra porcentagem
           plugin_languages_limit: 8 # Quantidade máxima de linguagens exibidas
